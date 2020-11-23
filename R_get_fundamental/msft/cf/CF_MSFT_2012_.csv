@@ -1,0 +1,123 @@
+,Metric,Units,Amount,startDate,endDate
+1,Goodwill Impairment Loss,iso4217_USD,0,2009/7/1,2010/6/30
+2,Goodwill Impairment Loss,iso4217_USD,0,2010/7/1,2011/6/30
+3,Goodwill Impairment Loss,iso4217_USD,6193000000,2011/7/1,2012/6/30
+4,Goodwill Impairment Loss,iso4217_USD,6193000000,2012/4/1,2012/6/30
+5,Depreciation Amortization And Other,iso4217_USD,2673000000,2009/7/1,2010/6/30
+6,Depreciation Amortization And Other,iso4217_USD,2766000000,2010/7/1,2011/6/30
+7,Depreciation Amortization And Other,iso4217_USD,2967000000,2011/7/1,2012/6/30
+8,Allocated Share Based Compensation Expense,iso4217_USD,1891000000,2009/7/1,2010/6/30
+9,Allocated Share Based Compensation Expense,iso4217_USD,2166000000,2010/7/1,2011/6/30
+10,Allocated Share Based Compensation Expense,iso4217_USD,2244000000,2011/7/1,2012/6/30
+11,Gain Loss On Investments And Derivative Instruments,iso4217_USD,208000000,2009/7/1,2010/6/30
+12,Gain Loss On Investments And Derivative Instruments,iso4217_USD,362000000,2010/7/1,2011/6/30
+13,Gain Loss On Investments And Derivative Instruments,iso4217_USD,200000000,2011/7/1,2012/6/30
+14,Excess Tax Benefit From Share Based Compensation Operating Activities,iso4217_USD,45000000,2009/7/1,2010/6/30
+15,Excess Tax Benefit From Share Based Compensation Operating Activities,iso4217_USD,17000000,2010/7/1,2011/6/30
+16,Excess Tax Benefit From Share Based Compensation Operating Activities,iso4217_USD,93000000,2011/7/1,2012/6/30
+17,Deferred Income Tax Expense Benefit,iso4217_USD,-220000000,2009/7/1,2010/6/30
+18,Deferred Income Tax Expense Benefit,iso4217_USD,2000000,2010/7/1,2011/6/30
+19,Deferred Income Tax Expense Benefit,iso4217_USD,954000000,2011/7/1,2012/6/30
+20,Increase Decrease In Deferred Revenue,iso4217_USD,29374000000,2009/7/1,2010/6/30
+21,Increase Decrease In Deferred Revenue,iso4217_USD,31227000000,2010/7/1,2011/6/30
+22,Increase Decrease In Deferred Revenue,iso4217_USD,36104000000,2011/7/1,2012/6/30
+23,Recognition Of Deferred Revenue,iso4217_USD,28813000000,2009/7/1,2010/6/30
+24,Recognition Of Deferred Revenue,iso4217_USD,28935000000,2010/7/1,2011/6/30
+25,Recognition Of Deferred Revenue,iso4217_USD,33347000000,2011/7/1,2012/6/30
+26,Increase Decrease In Accounts Receivable,iso4217_USD,2238000000,2009/7/1,2010/6/30
+27,Increase Decrease In Accounts Receivable,iso4217_USD,1451000000,2010/7/1,2011/6/30
+28,Increase Decrease In Accounts Receivable,iso4217_USD,1156000000,2011/7/1,2012/6/30
+29,Increase Decrease In Inventories,iso4217_USD,44000000,2009/7/1,2010/6/30
+30,Increase Decrease In Inventories,iso4217_USD,561000000,2010/7/1,2011/6/30
+31,Increase Decrease In Inventories,iso4217_USD,-184000000,2011/7/1,2012/6/30
+32,Increase Decrease In Other Current Assets,iso4217_USD,-464000000,2009/7/1,2010/6/30
+33,Increase Decrease In Other Current Assets,iso4217_USD,1259000000,2010/7/1,2011/6/30
+34,Increase Decrease In Other Current Assets,iso4217_USD,-493000000,2011/7/1,2012/6/30
+35,Increase Decrease In Other Noncurrent Assets,iso4217_USD,223000000,2009/7/1,2010/6/30
+36,Increase Decrease In Other Noncurrent Assets,iso4217_USD,-62000000,2010/7/1,2011/6/30
+37,Increase Decrease In Other Noncurrent Assets,iso4217_USD,248000000,2011/7/1,2012/6/30
+38,Increase Decrease In Accounts Payable,iso4217_USD,844000000,2009/7/1,2010/6/30
+39,Increase Decrease In Accounts Payable,iso4217_USD,58000000,2010/7/1,2011/6/30
+40,Increase Decrease In Accounts Payable,iso4217_USD,-31000000,2011/7/1,2012/6/30
+41,Increase Decrease In Other Current Liabilities,iso4217_USD,451000000,2009/7/1,2010/6/30
+42,Increase Decrease In Other Current Liabilities,iso4217_USD,-1146000000,2010/7/1,2011/6/30
+43,Increase Decrease In Other Current Liabilities,iso4217_USD,410000000,2011/7/1,2012/6/30
+44,Increase Decrease In Other Noncurrent Liabilities,iso4217_USD,1407000000,2009/7/1,2010/6/30
+45,Increase Decrease In Other Noncurrent Liabilities,iso4217_USD,1294000000,2010/7/1,2011/6/30
+46,Increase Decrease In Other Noncurrent Liabilities,iso4217_USD,174000000,2011/7/1,2012/6/30
+47,Proceeds From Repayments Of Short Term Debt Maturing In Three Months Or Less,iso4217_USD,-991000000,2009/7/1,2010/6/30
+48,Proceeds From Repayments Of Short Term Debt Maturing In Three Months Or Less,iso4217_USD,-186000000,2010/7/1,2011/6/30
+49,Proceeds From Repayments Of Short Term Debt Maturing In Three Months Or Less,iso4217_USD,0,2011/7/1,2012/6/30
+50,Proceeds From Debt Maturing In More Than Three Months,iso4217_USD,4167000000,2009/7/1,2010/6/30
+51,Proceeds From Debt Maturing In More Than Three Months,iso4217_USD,6960000000,2010/7/1,2011/6/30
+52,Proceeds From Debt Maturing In More Than Three Months,iso4217_USD,0,2011/7/1,2012/6/30
+53,Repayments Of Debt Maturing In More Than Three Months,iso4217_USD,2986000000,2009/7/1,2010/6/30
+54,Repayments Of Debt Maturing In More Than Three Months,iso4217_USD,814000000,2010/7/1,2011/6/30
+55,Repayments Of Debt Maturing In More Than Three Months,iso4217_USD,0,2011/7/1,2012/6/30
+56,Proceeds From Issuance Of Common Stock,iso4217_USD,2311000000,2009/7/1,2010/6/30
+57,Proceeds From Issuance Of Common Stock,iso4217_USD,2422000000,2010/7/1,2011/6/30
+58,Proceeds From Issuance Of Common Stock,iso4217_USD,1913000000,2011/7/1,2012/6/30
+59,Payments For Repurchase Of Common Stock,iso4217_USD,11269000000,2009/7/1,2010/6/30
+60,Payments For Repurchase Of Common Stock,iso4217_USD,11555000000,2010/7/1,2011/6/30
+61,Payments For Repurchase Of Common Stock,iso4217_USD,5029000000,2011/7/1,2012/6/30
+62,Payments Of Dividends Common Stock,iso4217_USD,4578000000,2009/7/1,2010/6/30
+63,Payments Of Dividends Common Stock,iso4217_USD,5180000000,2010/7/1,2011/6/30
+64,Payments Of Dividends Common Stock,iso4217_USD,6385000000,2011/7/1,2012/6/30
+65,Excess Tax Benefit From Share Based Compensation Financing Activities,iso4217_USD,45000000,2009/7/1,2010/6/30
+66,Excess Tax Benefit From Share Based Compensation Financing Activities,iso4217_USD,17000000,2010/7/1,2011/6/30
+67,Excess Tax Benefit From Share Based Compensation Financing Activities,iso4217_USD,93000000,2011/7/1,2012/6/30
+68,Proceeds From Payments For Other Financing Activities,iso4217_USD,10000000,2009/7/1,2010/6/30
+69,Proceeds From Payments For Other Financing Activities,iso4217_USD,-40000000,2010/7/1,2011/6/30
+70,Proceeds From Payments For Other Financing Activities,iso4217_USD,0,2011/7/1,2012/6/30
+71,Net Cash Provided By Used In Financing Activities,iso4217_USD,-13291000000,2009/7/1,2010/6/30
+72,Net Cash Provided By Used In Financing Activities,iso4217_USD,-8376000000,2010/7/1,2011/6/30
+73,Net Cash Provided By Used In Financing Activities,iso4217_USD,-9408000000,2011/7/1,2012/6/30
+74,Payments To Acquire Property Plant And Equipment,iso4217_USD,1977000000,2009/7/1,2010/6/30
+75,Payments To Acquire Property Plant And Equipment,iso4217_USD,2355000000,2010/7/1,2011/6/30
+76,Payments To Acquire Property Plant And Equipment,iso4217_USD,2305000000,2011/7/1,2012/6/30
+77,Acquisitions Netof Cash Acquired And Purchases Of Intangibleand Other Assets,iso4217_USD,245000000,2009/7/1,2010/6/30
+78,Acquisitions Netof Cash Acquired And Purchases Of Intangibleand Other Assets,iso4217_USD,71000000,2010/7/1,2011/6/30
+79,Acquisitions Netof Cash Acquired And Purchases Of Intangibleand Other Assets,iso4217_USD,10112000000,2011/7/1,2012/6/30
+80,Payments To Acquire Investments,iso4217_USD,30168000000,2009/7/1,2010/6/30
+81,Payments To Acquire Investments,iso4217_USD,35993000000,2010/7/1,2011/6/30
+82,Payments To Acquire Investments,iso4217_USD,57250000000,2011/7/1,2012/6/30
+83,Proceeds From Maturities Prepayments And Calls Of Available For Sale Securities,iso4217_USD,7453000000,2009/7/1,2010/6/30
+84,Proceeds From Maturities Prepayments And Calls Of Available For Sale Securities,iso4217_USD,6897000000,2010/7/1,2011/6/30
+85,Proceeds From Maturities Prepayments And Calls Of Available For Sale Securities,iso4217_USD,15575000000,2011/7/1,2012/6/30
+86,Proceeds From Sale Of Available For Sale Securities,iso4217_USD,15125000000,2009/7/1,2010/6/30
+87,Proceeds From Sale Of Available For Sale Securities,iso4217_USD,15880000000,2010/7/1,2011/6/30
+88,Proceeds From Sale Of Available For Sale Securities,iso4217_USD,29700000000,2011/7/1,2012/6/30
+89,Increase Decrease In Collateral Held Under Securities Lending,iso4217_USD,1502000000,2009/7/1,2010/6/30
+90,Increase Decrease In Collateral Held Under Securities Lending,iso4217_USD,-1026000000,2010/7/1,2011/6/30
+91,Increase Decrease In Collateral Held Under Securities Lending,iso4217_USD,394000000,2011/7/1,2012/6/30
+92,Net Cash Provided By Used In Investing Activities,iso4217_USD,-11314000000,2009/7/1,2010/6/30
+93,Net Cash Provided By Used In Investing Activities,iso4217_USD,-14616000000,2010/7/1,2011/6/30
+94,Net Cash Provided By Used In Investing Activities,iso4217_USD,-24786000000,2011/7/1,2012/6/30
+95,Net Income Loss,iso4217_USD,18760000000,2009/7/1,2010/6/30
+96,Net Income Loss,iso4217_USD,23150000000,2010/7/1,2011/6/30
+97,Net Income Loss,iso4217_USD,16978000000,2011/7/1,2012/6/30
+98,Net Income Loss,iso4217_USD,5232000000,2011/1/1,2011/3/31
+99,Net Income Loss,iso4217_USD,5874000000,2011/4/1,2011/6/30
+100,Net Income Loss,iso4217_USD,5108000000,2012/1/1,2012/3/31
+101,Net Income Loss,iso4217_USD,-492000000,2012/4/1,2012/6/30
+102,Net Income Loss,iso4217_USD,5410000000,2010/7/1,2010/9/30
+103,Net Income Loss,iso4217_USD,6634000000,2010/10/1,2010/12/31
+104,Net Income Loss,iso4217_USD,5738000000,2011/7/1,2011/9/30
+105,Net Income Loss,iso4217_USD,6624000000,2011/10/1,2011/12/31
+106,Net Cash Provided By Used In Operating Activities,iso4217_USD,24073000000,2009/7/1,2010/6/30
+107,Net Cash Provided By Used In Operating Activities,iso4217_USD,26994000000,2010/7/1,2011/6/30
+108,Net Cash Provided By Used In Operating Activities,iso4217_USD,31626000000,2011/7/1,2012/6/30
+109,Effect Of Exchange Rate On Cash And Cash Equivalents,iso4217_USD,-39000000,2009/7/1,2010/6/30
+110,Effect Of Exchange Rate On Cash And Cash Equivalents,iso4217_USD,103000000,2010/7/1,2011/6/30
+111,Effect Of Exchange Rate On Cash And Cash Equivalents,iso4217_USD,-104000000,2011/7/1,2012/6/30
+112,Cash And Cash Equivalents Period Increase Decrease,iso4217_USD,-571000000,2009/7/1,2010/6/30
+113,Cash And Cash Equivalents Period Increase Decrease,iso4217_USD,4105000000,2010/7/1,2011/6/30
+114,Cash And Cash Equivalents Period Increase Decrease,iso4217_USD,-2672000000,2011/7/1,2012/6/30
+115,Cash And Cash Equivalents At Carrying Value,iso4217_USD,6076000000,NA,2009/6/30
+116,Cash And Cash Equivalents At Carrying Value,iso4217_USD,5505000000,NA,2010/6/30
+117,Cash And Cash Equivalents At Carrying Value,iso4217_USD,9610000000,NA,2011/6/30
+118,Cash And Cash Equivalents At Carrying Value,iso4217_USD,6938000000,NA,2012/6/30
+119,Cash And Cash Equivalents At Carrying Value,iso4217_USD,6076000000,NA,2009/6/30
+120,Cash And Cash Equivalents At Carrying Value,iso4217_USD,5505000000,NA,2010/6/30
+121,Cash And Cash Equivalents At Carrying Value,iso4217_USD,9610000000,NA,2011/6/30
+122,Cash And Cash Equivalents At Carrying Value,iso4217_USD,6938000000,NA,2012/6/30
